@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Zhaoyi Wang
+    - name: Email
+      value: zhaoyi.wang [at] geod [dot] baug [dot] ethz [dot] cn
     - name: Languages
-      value: English, Chinese
+      value: English (Working proficiency), Mandarin (Native)
 
 - title: Education
   type: time_table
