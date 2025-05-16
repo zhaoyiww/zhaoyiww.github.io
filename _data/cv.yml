@@ -4,7 +4,7 @@
     - name: Full Name
       value: Zhaoyi Wang
     - name: Email
-      value: zhaoyi.wang [at] geod [dot] baug [dot] ethz [dot] cn
+      value: zhaoyi.wang@geod.baug.ethz.cn
     - name: Languages
       value: English (Working proficiency), Mandarin (Native)
 
@@ -37,16 +37,16 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>"
+      institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>, Zurich, Switzerland"
       year: 2021 - Present
     - title: Computer Vision Algorithm Engineer Intern
       institution: Dilusense Company, Hefei, China
       year: Mar. 2021 - Jun. 2021
     - title: International Geoinformatics Summer School (IGSS) Student
-      institution: "<a href='http://www.lmars.whu.edu.cn/en'>LIESMARS</a>, <a href='https://en.whu.edu.cn/'>Wuhan University</a>, Wuhan, China"
+      institution: "<a href='http://www.lmars.whu.edu.cn/en'>LIESMARS</a>, <a href='https://en.whu.edu.cn/'>Wuhan University (WHU)</a>, Wuhan, China"
       year: Aug. 2020
     - title: Exchange Student
-      institution: "<a href='https://www.polyu.edu.hk/lsgi/?sc_lang=en'>LSGI</a>, <a href='https://www.polyu.edu.hk/en/'>Hong Kong Polytechnic University</a>, Hong Kong, China"
+      institution: "<a href='https://www.polyu.edu.hk/lsgi/?sc_lang=en'>LSGI</a>, <a href='https://www.polyu.edu.hk/en/'>Hong Kong Polytechnic University (PolyU)</a>, Hong Kong, China"
       year: Jul. 2017
 
 #- title: Open Source Projects
