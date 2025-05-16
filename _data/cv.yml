@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. candidate in Geodesy and Photogrammetry
       institution: "<a href='https://ethz.ch/en.html'>ETH Zurich</a>, Zurich, Switzerland"
-      year: 2021 - Present
+      year: 2021 – Present
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -24,24 +24,24 @@
     - title: M.Sc. in Precision Engineering Surveying
       #Precision Metrology
       institution: "<a href='https://en.ustc.edu.cn/index.htm'>University of Science and Technology of China (USTC)</a>, Hefei, China"
-      year: 2018 - 2021
+      year: 2018 – 2021
       #description:
       #  - Description 1.
       #  - Description 2.
     - title: B.Sc. in Surveying and Mapping Engineering
       #Geomatics
       institution: "<a href='https://www.csust.edu.cn/ywb/Home.htm'>Changsha University of Science and Technology (CSUST)</a>, Changsha, China"
-      year: 2014 - 2018
+      year: 2014 – 2018
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>, Zurich, Switzerland"
-      year: 2021 - Present
+      year: 2021 – Present
     - title: Computer Vision Algorithm Engineer Intern
       institution: Dilusense Company, Hefei, China
-      year: Mar. 2021 - Jun. 2021
+      year: Mar. – Jun. 2021
     - title: International Geoinformatics Summer School (IGSS) Student
       institution: "<a href='http://www.lmars.whu.edu.cn/en'>LIESMARS</a>, <a href='https://en.whu.edu.cn/'>Wuhan University (WHU)</a>, Wuhan, China"
       year: Aug. 2020
