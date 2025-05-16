@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Ph.D. candidate in Geodesy and Photogrammetry
-      institution: "[ETH Zurich](https://ethz.ch/en.html), Zurich, Switzerland"
+      institution: "<a href='https://ethz.ch/en.html'>ETH Zurich</a>, Zurich, Switzerland"
       year: 2021 - Present
       #description:
       #  - Description 1.
