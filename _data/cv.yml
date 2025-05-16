@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Ph.D. candidate in Geodesy and Photogrammetry
-      institution: [ETH Zurich](https://ethz.ch/en.html), Zurich, Switzerland
+      institution: "[ETH Zurich](https://ethz.ch/en.html), Zurich, Switzerland"
       year: 2021 - Present
       #description:
       #  - Description 1.
@@ -21,30 +21,30 @@
       #      - Sub-description 2.
     - title: M.Sc. in Precision Engineering Surveying
       #Precision Metrology
-      institution: [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/index.htm), Hefei, China
+      institution: "[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/index.htm), Hefei, China"
       year: 2018 - 2021
       #description:
       #  - Description 1.
       #  - Description 2.
     - title: B.Sc. in Surveying and Mapping Engineering
       #Geomatics
-      institution: [Changsha University of Science and Technology (CSUST)](https://www.csust.edu.cn/ywb/Home.htm), Changsha, China
+      institution: "[Changsha University of Science and Technology (CSUST)](https://www.csust.edu.cn/ywb/Home.htm), Changsha, China"
       year: 2014 - 2018
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: [GSEG](https://gseg.igp.ethz.ch/people/people-group.html), [ETH Zurich](https://ethz.ch/en.html)
+      institution: "[GSEG](https://gseg.igp.ethz.ch/people/people-group.html), [ETH Zurich](https://ethz.ch/en.html)"
       year: 2021 - Present
     - title: Computer Vision Algorithm Engineer Intern
       institution: Dilusense Company, Hefei, China
       year: Mar. 2021 - Jun. 2021
     - title: International Geoinformatics Summer School (IGSS) Student
-      institution: [LIESMARS](http://www.lmars.whu.edu.cn/en), [Wuhan University](https://en.whu.edu.cn/), Wuhan, China
+      institution: "[LIESMARS](http://www.lmars.whu.edu.cn/en), [Wuhan University](https://en.whu.edu.cn/), Wuhan, China"
       year: Aug. 2020
     - title: Exchange Student
-      institution: [LSGI](https://www.polyu.edu.hk/lsgi/?sc_lang=en), [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong, China
+      institution: "[LSGI](https://www.polyu.edu.hk/lsgi/?sc_lang=en), [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong, China"
       year: Jul. 2017
 
 #- title: Open Source Projects
