@@ -73,7 +73,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
           title: 'I participated in IGP Doctoral Day with a poster presentation.',
           description: "",
-          section: "News",},{id: "news-our-paper-an-approach-for-rgb-guided-dense-3d-displacement-estimation-in-tls-based-geomonitoring-was-accepted-at-the-isprs-geospatial-week-2025-laser-scanning-workshop-and-will-be-published-in-the-isprs-annals",
+          section: "News",},{id: "news-our-paper-an-approach-for-rgb-guided-dense-3d-displacement-estimation-in-tls-based-geomonitoring-was-accepted-at-the-isprs-geospatial-week-2025-laser-scanning-workshop-and-will-be-published-in-the-isprs-annals-the-associated-code-is-publicly-available",
           title: 'Our paper An Approach for RGB-Guided Dense 3D Displacement Estimation in TLS-Based Geomonitoring...',
           description: "",
           section: "News",},{id: "news-i-joined-our-gseg-group-visit-to-cern-geneva-switzerland",
