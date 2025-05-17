@@ -44,15 +44,10 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
+            },{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
           title: 'I participated in IGP Doctoral Day with a poster presentation.',
           description: "",
-          section: "News",},{id: "news-our-paper-assessing-the-alignment-between-geometry-and-colors-in-tls-colored-point-clouds-was-accepted-at-the-isprs-geospatial-week-2023-laser-scanning-workshop-and-published-in-the-isprs-annals",
+          section: "News",},{id: "news-our-paper-assessing-the-alignment-between-geometry-and-colors-in-tls-colored-point-clouds-was-accepted-at-the-isprs-geospatial-week-2023-laser-scanning-workshop-and-published-in-the-isprs-annals-the-associated-code-is-publicly-available",
           title: 'Our paper Assessing the alignment between geometry and colors in TLS colored point...',
           description: "",
           section: "News",},{id: "news-i-presented-at-the-isprs-geospatial-week-2023-in-cairo-egypt-best-presentation-award",
