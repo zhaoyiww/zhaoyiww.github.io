@@ -27,8 +27,8 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Geosensors and Engineering Geodesy (GSEG)](https://gseg.igp.ethz.ch/people/people-group.html) group at the [Institute of Photogrammetry and Remote Sensing (IGP)](https://igp.ethz.ch/) of [ETH Zurich](https://ethz.ch/en.html). I am advised by [Prof. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html) and [Prof. Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of deep learning and remote sensing for monitoring applications, with a focus on image-assisted point cloud processing, including point cloud registration (rigid case) and landslide monitoring (deformable case).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<span style="color: red;">I expect to graduate in December 2025. I am looking for a postdoctoral position.</span>
