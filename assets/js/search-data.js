@@ -44,40 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
-      },{id: "books-the-godfather",
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -92,6 +59,15 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-we-got-3-papers-accepted-in-miccai-2021",
+          title: 'We got 3 papers accepted in MICCAI 2021!',
+          description: "",
+          section: "News",},{id: "news-our-paper-cross-modal-feature-fusion-for-robust-point-cloud-registration-with-ambiguous-geometry-was-accepted-by-the-isprs-journal-of-photogrammetry-and-remote-sensing",
+          title: 'Our paper Cross-modal feature fusion for robust point cloud registration with ambiguous geometry...',
+          description: "",
+          section: "News",},{id: "news-i-joined-geosummit-2025-in-budapest-hungary",
+          title: 'I joined GeoSummit 2025 in Budapest, Hungary.',
           description: "",
           section: "News",},{
         id: 'social-email',
