@@ -6,6 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhaoyi
 middle_name:
 last_name: Wang
+chinese_last_name: 汪
+chinese_first_name: 昭义
 email: zhaoyi.wang@geod.baug.ethz.ch
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -43,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -147,7 +149,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
