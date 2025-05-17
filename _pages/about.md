@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>HIL D 45.3</p>
-    <p>Stefano-Franscini-Platz 5</p>
+    <p>HIL D 45.3,</p>
+    <p>Stefano-Franscini-Platz 5,</p>
     <p>8093 Zurich, Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
