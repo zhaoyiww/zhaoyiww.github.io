@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: My Research Blog # blog_name will be displayed in your blog page
-blog_description: a minimal academic blog for sharing research notes and ideas — exploring the intersection of 3D computer vision and remote sensing
+blog_description: Sharing research notes and ideas at the intersection of 3D computer vision and remote sensing
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

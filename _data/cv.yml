@@ -55,12 +55,17 @@
   type: list
   contents:
     - "<strong>Expertise</strong>: TLS scanning, UAV, Photogrammetric 3D reconstruction"
-    - "<strong>Programming Languages</strong>: Python, C++, MATLAB, CUDA, Shell scripting"
-    - "<strong>Tools</strong>: Git, LaTeX, Linux"
+    - "<strong>Programming Languages</strong>: Python, C++, MATLAB, Shell scripting"
+    - "<strong>Tools</strong>: CUDA, Git, LaTeX, Linux"
     - "<strong>Frameworks & Libraries</strong>: PyTorch, Open3D, OpenCV, COLMAP"
     - >
       <strong>Software</strong>: Leica Cyclone, RiSCAN PRO, FARO SCENE, Pix4D Mapper,<br>
       Metashape, CloudCompare, Unity
+
+- title: Misc
+  type: list
+  contents:
+    - "<strong>Sports</strong>: Half-Marathon, Skiing, Hiking, Table Tennis"
 
 #- title: Open Source Projects
 #  type: time_table
