@@ -54,14 +54,13 @@
 - title: Skills
   type: list
   contents:
-    - "**Expertise**: TLS scanning, UAV, Photogrammetric 3D reconstruction"
-    - "**Programming Languages**: Python, C++, MATLAB, CUDA, Shell scripting"
-    - "**Tools**: Git, LaTeX, Linux"
-    - "**Frameworks & Libraries**: PyTorch, Open3D, OpenCV, COLMAP"
+    - "<strong>Expertise</strong>: TLS scanning, UAV, Photogrammetric 3D reconstruction"
+    - "<strong>Programming Languages</strong>: Python, C++, MATLAB, CUDA, Shell scripting"
+    - "<strong>Tools</strong>: Git, LaTeX, Linux"
+    - "<strong>Frameworks & Libraries</strong>: PyTorch, Open3D, OpenCV, COLMAP"
     - >
-      **Software**: Leica Cyclone, RiSCAN PRO, FARO SCENE, Pix4D Mapper,
+      <strong>Software</strong>: Leica Cyclone, RiSCAN PRO, FARO SCENE, Pix4D Mapper,<br>
       Metashape, CloudCompare, Unity
-
 
 #- title: Open Source Projects
 #  type: time_table
