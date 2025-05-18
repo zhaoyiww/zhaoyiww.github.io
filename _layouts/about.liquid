@@ -6,10 +6,13 @@ layout: default
     <h1 class="post-title">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
+        {{ site.last_name }}&nbsp;&nbsp;<br class="d-md-none">
+        {%- if site.chinese_first_name and site.chinese_last_name -%}
+          ({{ site.chinese_first_name }}<span style="font-weight: 500">{{ site.chinese_last_name }}</span>)
+        {%- endif -%}
+      {%- else -%}
         {{ site.title }}
-      {% endif %}
+      {%- endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>

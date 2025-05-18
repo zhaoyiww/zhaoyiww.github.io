@@ -8,7 +8,6 @@
   year={2025},
   publisher={Copernicus},
   abstract={Estimating 3D deformation with high spatial resolution from TLS point clouds is beneficial for geomonitoring. Existing methods for this task primarily rely on geometric data. They do not use radiometric information although it is often available as well. This leaves potential for improvement. To address this, we propose an approach that utilizes RGB images—captured by built-in cameras of TLS scanners and co-registered with TLS point clouds—to generate dense 3D displacement vector fields for deformation analysis. Our method comprises three main steps: (1) applying the Efficient-LoFTR algorithm to establish dense 2D pixel correspondences on RGB images across two epochs; (2) projecting 3D points from both epochs onto RGB images and establishing 3D point correspondences by matching the projected pixels with the established 2D correspondences; (3) clustering the point cloud of one epoch and refining the 3D point correspondences within each cluster to produce the final displacement vector fields. Experiments on real measurements obtained from a rockfall simulator and from a real-world landslide demonstrate that our method achieves comparable accuracy to state-of-the-art geometry-based methods, with improved density and computational efficiency. By using radiometric features, our approach complements geometry-based methods, suggesting that combining both will enhance coverage and/or accuracy for geomonitoring applications.}
-  code="https://github.com/zhaoyiww/fusion4landslide",
   pdf="https://www.research-collection.ethz.ch/handle/20.500.11850/731656",
   slides="Dubai_Slides_ISPRSW_Submission_2025-04-10-final.pdf",
   selected={true},
@@ -23,7 +22,6 @@
   year={2023},
   publisher={Copernicus},
   abstract={The integration of the color information from RGB cameras with the point cloud geometry is used in numerous applications. However, little attention has been paid on errors that occur when aligning colors to points in terrestrial laser scanning (TLS) point clouds. Such errors may impact the performance of algorithms that utilize colored point clouds. Herein, we propose a procedure for assessing the alignment between the TLS point cloud geometry and colors. The procedure is based upon identifying artificial targets observed in both LiDAR-based point cloud intensity data and camera-based RGB data, and quantifying the quality of the alignment using differences between the target center coordinates estimated separately from these two data sources. Experimental results with eight scanners show that the quality of the alignment depends on the scanner, the software used for colorizing the point clouds, and may change with changing environmental conditions. While we found the effects of misalignment to be negligible for some scanners, they exhibited clearly systematic patterns exceeding the beam divergence, image and scan resolution for four of the scanners. The maximum deviations were about 2 mrad perpendicular to the line-of-sight when colorizing the point clouds with the respective manufacturer’s software or scanner in-built functions, while they were up to about 5 mrad when using a different software. Testing the alignment quality, e.g., using the approach presented herein, is thus important for applications requiring accurate alignment of the RGB colors with the point cloud geometry.}
-  code="https://github.com/zhaoyiww/AssessAlignment",
   pdf="https://isprs-annals.copernicus.org/articles/X-1-W1-2023/597/2023/",
   selected={true},
 }
@@ -55,6 +53,7 @@
 @article{wang2020fixing,
   title={Fixing positions and orientations of laser trackers during bundle adjustment in multi-station measurements},
   author={Wang, Zhaoyi and Luo, Tao and Wang, Wei and Huang, Qingqing and Li, Xiao},
+  abbr = "BA",
   journal={Measurement Science and Technology},
   volume={32},
   number={3},
