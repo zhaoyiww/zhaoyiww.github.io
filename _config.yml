@@ -10,7 +10,7 @@ chinese_last_name: 汪
 chinese_first_name: 昭义
 email: zhaoyi.wang@geod.baug.ethz.ch
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
