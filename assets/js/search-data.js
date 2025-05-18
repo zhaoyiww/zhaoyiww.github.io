@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
+            },{id: "post-3d-gaussian-splatting",
+        
+          title: "3D Gaussian Splatting",
+        
+        description: "Overview and resources on 3D Gaussian Splatting for reconstruction and geospatial applications.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/3dgs/";
+          
+        },
+      },{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
           title: 'I participated in IGP Doctoral Day with a poster presentation.',
           description: "",
           section: "News",},{id: "news-our-paper-assessing-the-alignment-between-geometry-and-colors-in-tls-colored-point-clouds-was-accepted-at-the-isprs-geospatial-week-2023-laser-scanning-workshop-and-published-in-the-isprs-annals-the-associated-code-is-publicly-available",
