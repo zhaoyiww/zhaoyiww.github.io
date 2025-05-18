@@ -8,7 +8,7 @@
   year={2025},
   publisher={Copernicus},
   abstract={Estimating 3D deformation with high spatial resolution from TLS point clouds is beneficial for geomonitoring. Existing methods for this task primarily rely on geometric data. They do not use radiometric information although it is often available as well. This leaves potential for improvement. To address this, we propose an approach that utilizes RGB images—captured by built-in cameras of TLS scanners and co-registered with TLS point clouds—to generate dense 3D displacement vector fields for deformation analysis. Our method comprises three main steps: (1) applying the Efficient-LoFTR algorithm to establish dense 2D pixel correspondences on RGB images across two epochs; (2) projecting 3D points from both epochs onto RGB images and establishing 3D point correspondences by matching the projected pixels with the established 2D correspondences; (3) clustering the point cloud of one epoch and refining the 3D point correspondences within each cluster to produce the final displacement vector fields. Experiments on real measurements obtained from a rockfall simulator and from a real-world landslide demonstrate that our method achieves comparable accuracy to state-of-the-art geometry-based methods, with improved density and computational efficiency. By using radiometric features, our approach complements geometry-based methods, suggesting that combining both will enhance coverage and/or accuracy for geomonitoring applications.}
-  pdf={https://www.research-collection.ethz.ch/handle/20.500.11850/731656},
+  % pdf={https://www.research-collection.ethz.ch/handle/20.500.11850/731656},
   slides={Dubai_Slides_ISPRSW_Submission_2025-04-10-final.pdf},
   selected={true},
 }
@@ -22,7 +22,7 @@
   year={2023},
   publisher={Copernicus},
   abstract={The integration of the color information from RGB cameras with the point cloud geometry is used in numerous applications. However, little attention has been paid on errors that occur when aligning colors to points in terrestrial laser scanning (TLS) point clouds. Such errors may impact the performance of algorithms that utilize colored point clouds. Herein, we propose a procedure for assessing the alignment between the TLS point cloud geometry and colors. The procedure is based upon identifying artificial targets observed in both LiDAR-based point cloud intensity data and camera-based RGB data, and quantifying the quality of the alignment using differences between the target center coordinates estimated separately from these two data sources. Experimental results with eight scanners show that the quality of the alignment depends on the scanner, the software used for colorizing the point clouds, and may change with changing environmental conditions. While we found the effects of misalignment to be negligible for some scanners, they exhibited clearly systematic patterns exceeding the beam divergence, image and scan resolution for four of the scanners. The maximum deviations were about 2 mrad perpendicular to the line-of-sight when colorizing the point clouds with the respective manufacturer’s software or scanner in-built functions, while they were up to about 5 mrad when using a different software. Testing the alignment quality, e.g., using the approach presented herein, is thus important for applications requiring accurate alignment of the RGB colors with the point cloud geometry.}
-  pdf="https://isprs-annals.copernicus.org/articles/X-1-W1-2023/597/2023/",
+  % pdf="https://isprs-annals.copernicus.org/articles/X-1-W1-2023/597/2023/",
   selected={true},
 }
 
@@ -35,7 +35,7 @@
   pages={919--925},
   year={2023},
   abstract={The control network in accelerator alignment often forms a straight line or ring. The errors will accumulate as the number of stations increases when performing lap measurements with the laser tracker. To improve the measurement accuracy of the laser tracker control network, we analyze the source of errors and compare four different measurement methods. First, the formulas of error propagation in the bundle adjustment method are derived and the error source of the unknown points is analyzed. Second, the following four schemes are obtained by adopting the bundle adjustment method of laser trackers. Finally, the performances of the above schemes are analyzed in the experiment of bundle adjustment. The results show that the absolute position accuracy for the scheme with fixed position and orientation is the highest among the four schemes. The average root mean square (RMS) of the position is 0.147 mm in the experiment of the closed measurement, which is less than that of the unclosed measurement with the RMS of 0.163 mm. In the measurement range of 15 m × 10 m × 3 m, the orientation of the non-fixed scheme flat-rate solution and the average RMS of the plane position are 3.58 s and 0.144 mm, respectively. The station closure can enhance the constraint. Besides, the fixed station center position can effectively inhibit the error accumulation of multi-station lap measurement, improving the accuracy of the network adjustment. Moreover, the result of fixed station center position is better than that of the fixed station center orientation, which indicates that the station positions are vital parameters that affect the two-dimensional bundle adjustment of the laser tracker. This paper can provide a reference for the design of the high-precision laser tracker bundle adjustment method.}
-  pdf="http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20200718",
+  % pdf="http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20200718",
 }
 
 @article{wang2021high,
@@ -47,7 +47,7 @@
   pages={555--560},
   year={2021},
   abstract={Higher accuracy is needed for the alignment and installation of key components in new generation particle accelerators. However, the existing measuring instruments are limited by the technological development, it is difficult to significantly improve the measurement accuracy in a short time. In this paper, we proposed a novel pre-alignment method based on 3D trilateration network adjustment of laser trackers. Firstly, we established multiple survey stations surrounding the component which needs to be pre-aligned. Then, we utilized only distance observations between station points and location points to establish 3D trilateration network. Finally, we regarded all coordinates of both station points and location points as unknown parameters, and adopted a 3D free trilateration network adjustment. Experimental results show that the root mean squared error (RMSE) of location points calculated by 3D triangulateration are three times higher than that calculated by 3D trilateration. In addition, the average RMSE of location points can reach the highest precision as 8.9 μm by establishing 22 survey stations. Because the precision is no-more-than 10 μm by establishing 12 survey stations, we consider 12 as the quantity of locally optimal survey stations. This method can provide crucial engineering values for the practical work during the high-precision alignment and installation of devices.}
-  pdf="http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20190143",
+  % pdf="http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20190143",
 }
 
 @article{wang2020fixing,
@@ -61,5 +61,5 @@
   year={2020},
   publisher={IOP Publishing},
   abstract={The accumulated errors in multi-station measurements make it challenging to meet higher precision requirements for annular or straight tunnel measurements in the accelerator alignment field. In this paper, a study on fixing positions and orientations of laser trackers during the bundle adjustment is presented. First, we adopt the mixed least squares-total least squares algorithm to calculate the spatial-transformation parameters. Then, according to the principle of bundle adjustment based on laser trackers, we design four schemes and compare them to determine which scheme results in the highest precision. Experimental results show that fixing each station’s position and orientation can considerably decrease the absolute point errors from 0.130 to 0.069 mm within 15 m × 10 m × 3 m, and fixing stations’ orientations is better than fixing their positions. This research can derive high-precision schemes that effectively reduce accumulated errors in annular or straight tunnel measurements, and it can apply to other robotic sensors as well.}
-  pdf="https://iopscience.iop.org/article/10.1088/1361-6501/abcd6b",
+  % pdf="https://iopscience.iop.org/article/10.1088/1361-6501/abcd6b",
 }
