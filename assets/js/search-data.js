@@ -44,18 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-investigation-of-tls-scanners",
-        
-          title: "Investigation of TLS Scanners",
-        
-        description: "Overview and resources on 3D Gaussian Splatting for reconstruction and geospatial applications.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/scanners/";
-          
-        },
-      },{id: "post-3d-gaussian-splatting",
+            },{id: "post-3d-gaussian-splatting",
         
           title: "3D Gaussian Splatting",
         
@@ -64,6 +53,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/3dgs/";
+          
+        },
+      },{id: "post-investigation-of-tls-scanners",
+        
+          title: "Investigation of TLS Scanners",
+        
+        description: "Overview and resources on 3D Gaussian Splatting for reconstruction and geospatial applications.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/scanners/";
           
         },
       },{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
