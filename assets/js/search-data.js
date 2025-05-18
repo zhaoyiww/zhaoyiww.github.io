@@ -55,17 +55,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/3dgs/";
           
         },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
       },{id: "news-i-participated-in-igp-doctoral-day-with-a-poster-presentation",
           title: 'I participated in IGP Doctoral Day with a poster presentation.',
           description: "",
