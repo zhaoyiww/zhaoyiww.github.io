@@ -59,7 +59,7 @@ ninja.data = [{
         
           title: "Investigation of TLS Scanners",
         
-        description: "Overview and resources on 3D Gaussian Splatting for reconstruction and geospatial applications.",
+        description: "This notebook summarizes technical configurations and practical insights into various terrestrial laser scanning (TLS) scanners and their built-in imaging systems, with a focus on point cloud colorization techniques.",
         section: "Posts",
         handler: () => {
           
