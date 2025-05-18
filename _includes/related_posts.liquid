@@ -1,5 +1,6 @@
 {% assign have_related_posts = false %}
 {% for post in site.related_posts | limit: site.related_blog_posts.max_related %}
+  {% comment %}
   {% unless have_related_posts %}
     {% assign have_related_posts = true %}
     <br>
@@ -10,6 +11,15 @@
     <!-- Adds related posts to the end of an article -->
     <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2>
     <p class="mb-2">Here are some more articles you might like to read next:</p>
+  {% endunless %}
+  {% endcomment %}
+  {% unless have_related_posts %}
+    {% assign have_related_posts = true %}
+    <div class="text-center max-w-2xl mx-auto mt-12">
+      <hr class="my-8">
+      <h2 class="text-3xl font-semibold mb-4">Enjoy Reading This Article?</h2>
+      <p class="mb-4">Here are some more articles you might like to read next:</p>
+      <ul class="list-disc pl-6 text-left inline-block text-base text-gray-800">
   {% endunless %}
 
   <li class="my-2">
@@ -25,7 +35,19 @@
     {% endif %}
   </li>
 {% endfor %}
+      </ul>
+
+{% comment %}
 {% if site.newsletter.enabled and site.footer_fixed %}
   <p class="mb-2" style="margin-top: 1.5rem !important">Subscribe to be notified of future articles:</p>
   {% include newsletter.liquid left=true %}
 {% endif %}
+{% endcomment %}
+
+{% if site.newsletter.enabled and site.footer_fixed %}
+  <div class="text-center max-w-2xl mx-auto">
+    <p class="mt-6 mb-2">Subscribe to be notified of future articles:</p>
+    {% include newsletter.liquid left=true %}
+  </div>
+{% endif %}
+    </div>
