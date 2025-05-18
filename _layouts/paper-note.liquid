@@ -2,6 +2,11 @@
 <!-- _layouts/paper-note.liquid -->
 <html>
   <head>
+    {% assign year = page.date | date: '%Y' %}
+    {% assign tags = page.tags | join: '' %}
+    {% assign categories = page.categories | join: '' %}
+    {% assign url_beginning = page.url | slice: 0, 6 %}
+
     {%- include head.liquid %}
 
     {% include scripts/jquery.html %}
@@ -163,6 +168,12 @@
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       {%- endif %}
     </div>
+
+    {% if site.related_blog_posts and site.related_blog_posts.enabled %}
+      {% if page.related_posts == null or page.related_posts %}
+        {% include related_posts.liquid %}
+      {% endif %}
+    {% endif %}
 
     <!-- Footer -->
     {%- include footer.liquid %}
