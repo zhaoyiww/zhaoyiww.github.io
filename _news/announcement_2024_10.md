@@ -4,4 +4,4 @@ date: 2024-10-08 07:59:00+0200
 inline: true
 ---
 
-🎤 I gave a presentation at the [DGK](https://dgk.badw.de/abteilung-ingenieurgeodaesie/aktivitaeten.html) Doctoral Student Seminar 2024 in Graz, Austria. 👉 [View Slides (PDF)](/assets/pdf/Doctoral_Seminar_Graz_ZhaoyiWang_20241008.pdf)
+🎤 I gave a presentation at the [DGK](https://dgk.badw.de/abteilung-ingenieurgeodaesie/aktivitaeten.html) Doctoral Student Seminar 2024 in Graz, Austria. 👉 [Slides](/assets/pdf/Doctoral_Seminar_Graz_ZhaoyiWang_20241008.pdf)
