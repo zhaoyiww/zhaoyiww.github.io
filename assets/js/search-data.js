@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
+        },{id: "nav-teaching-amp-reviewing",
+          title: "Teaching &amp; Reviewing",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -104,6 +104,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-joined-geosummit-2025-in-budapest-hungary",
           title: 'I joined GeoSummit 2025 in Budapest, Hungary.',
+          description: "",
+          section: "News",},{id: "news-i-am-a-visiting-phd-student-at-the-3dom-group-fbk-led-by-prof-fabio-remondino-for-a-three-month-research-stay",
+          title: 'I am a visiting PhD student at the 3DOM group, FBK, led by...',
           description: "",
           section: "News",},{
         id: 'social-email',
