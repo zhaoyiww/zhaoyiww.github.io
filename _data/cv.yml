@@ -61,9 +61,7 @@
     - "<strong>Programming Languages</strong>: Python, C++, Shell scripting, MATLAB"
     - "<strong>Development Tools</strong>: CUDA, Git, LaTeX, Linux"
     - "<strong>Frameworks & Libraries</strong>: PyTorch, Open3D, OpenCV, COLMAP"
-    - >
-      <strong>Professional Software</strong>: Leica Cyclone, RIEGL RiSCAN PRO, FARO SCENE, Pix4D Mapper,<br>
-      Metashape, CloudCompare, Unity
+    - "<strong>Professional Software</strong>: Leica Cyclone, RIEGL RiSCAN PRO, FARO SCENE, Pix4D Mapper, Metashape, CloudCompare, Unity"
 
 - title: Misc
   type: list
