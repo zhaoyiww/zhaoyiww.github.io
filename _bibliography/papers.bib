@@ -19,10 +19,25 @@
   eprint={2506.16265},
   archivePrefix={arXiv},
   primaryClass={cs.CV},
+  note={Under review},
   abstract={Landslide monitoring is essential for understanding geohazards and mitigating associated risks. However, existing point cloud-based methods typically rely on either geometric or radiometric information and often yield sparse or non-3D displacement estimates. In this paper, we propose a hierarchical partition-based coarse-to-fine approach that fuses 3D point clouds and co-registered RGB images to estimate dense 3D displacement vector fields. We construct patch-level matches using both 3D geometry and 2D image features. These matches are refined via geometric consistency checks, followed by rigid transformation estimation per match. Experimental results on two real-world landslide datasets demonstrate that our method produces 3D displacement estimates with high spatial coverage (79% and 97%) and high accuracy. Deviations in displacement magnitude with respect to external measurements (total station or GNSS observations) are 0.15 m and 0.25 m on the two datasets, respectively, and only 0.07 m and 0.20 m compared to manually derived references. These values are below the average scan resolutions (0.08 m and 0.30 m). Our method outperforms the state-of-the-art method F2S3 in spatial coverage while maintaining comparable accuracy. Our approach offers a practical and adaptable solution for TLS-based landslide monitoring and is extensible to other types of point clouds and monitoring tasks.},
   code="https://github.com/zhaoyiww/fusion4landslide",
   pdf="https://arxiv.org/abs/2506.16265",
   preview="method_overview_jag_25.jpg",
+  selected={true},
+}
+
+@article{wang2025approach,
+  title={An Approach for RGB-Guided Dense 3D Displacement Estimation in TLS-Based Geomonitoring},
+  author={Wang, Zhaoyi and Butt, Jemil Avers and Huang, Shengyu and Meyer, Nicholas and Medic, Tomislav and Wieser, Andreas},
+  journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  year={2025},
+  publisher={Copernicus},
+  abstract={Estimating 3D deformation with high spatial resolution from TLS point clouds is beneficial for geomonitoring. Existing methods for this task primarily rely on geometric data. They do not use radiometric information although it is often available as well. This leaves potential for improvement. To address this, we propose an approach that utilizes RGB images—captured by built-in cameras of TLS scanners and co-registered with TLS point clouds—to generate dense 3D displacement vector fields for deformation analysis. Our method comprises three main steps: (1) applying the Efficient-LoFTR algorithm to establish dense 2D pixel correspondences on RGB images across two epochs; (2) projecting 3D points from both epochs onto RGB images and establishing 3D point correspondences by matching the projected pixels with the established 2D correspondences; (3) clustering the point cloud of one epoch and refining the 3D point correspondences within each cluster to produce the final displacement vector fields. Experiments on real measurements obtained from a rockfall simulator and from a real-world landslide demonstrate that our method achieves comparable accuracy to state-of-the-art geometry-based methods, with improved density and computational efficiency. By using radiometric features, our approach complements geometry-based methods, suggesting that combining both will enhance coverage and/or accuracy for geomonitoring applications.},
+  code="https://github.com/zhaoyiww/fusion4landslide",
+  pdf="https://www.research-collection.ethz.ch/handle/20.500.11850/731656",
+  slides="Dubai_Slides_ISPRSW_Submission_2025-04-10-final.pdf",
+  preview="method_overview_isprsw_25.jpg",
   selected={true},
 }
 
@@ -38,20 +53,6 @@
   code="https://github.com/zhaoyiww/CoFF",
   pdf="https://doi.org/10.1016/j.isprsjprs.2025.05.012",
   preview="method_overview_isprs_coff_25.jpg",
-  selected={true},
-}
-
-@article{wang2025approach,
-  title={An Approach for RGB-Guided Dense 3D Displacement Estimation in TLS-Based Geomonitoring},
-  author={Wang, Zhaoyi and Butt, Jemil Avers and Huang, Shengyu and Meyer, Nicholas and Medic, Tomislav and Wieser, Andreas},
-  journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-  year={2025},
-  publisher={Copernicus},
-  abstract={Estimating 3D deformation with high spatial resolution from TLS point clouds is beneficial for geomonitoring. Existing methods for this task primarily rely on geometric data. They do not use radiometric information although it is often available as well. This leaves potential for improvement. To address this, we propose an approach that utilizes RGB images—captured by built-in cameras of TLS scanners and co-registered with TLS point clouds—to generate dense 3D displacement vector fields for deformation analysis. Our method comprises three main steps: (1) applying the Efficient-LoFTR algorithm to establish dense 2D pixel correspondences on RGB images across two epochs; (2) projecting 3D points from both epochs onto RGB images and establishing 3D point correspondences by matching the projected pixels with the established 2D correspondences; (3) clustering the point cloud of one epoch and refining the 3D point correspondences within each cluster to produce the final displacement vector fields. Experiments on real measurements obtained from a rockfall simulator and from a real-world landslide demonstrate that our method achieves comparable accuracy to state-of-the-art geometry-based methods, with improved density and computational efficiency. By using radiometric features, our approach complements geometry-based methods, suggesting that combining both will enhance coverage and/or accuracy for geomonitoring applications.},
-  code="https://github.com/zhaoyiww/fusion4landslide",
-  pdf="https://www.research-collection.ethz.ch/handle/20.500.11850/731656",
-  slides="Dubai_Slides_ISPRSW_Submission_2025-04-10-final.pdf",
-  preview="method_overview_isprsw_25.jpg",
   selected={true},
 }
 
