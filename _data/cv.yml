@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Geodesy and Photogrammetry
+    - title: Ph.D. in Geomatics
       institution: "<a href='https://ethz.ch/en.html'>ETH Zurich</a>"
       year: 2021 – 2025
       #description:
@@ -23,14 +23,14 @@
       #    contents:
       #      - Sub-description 1.
       #      - Sub-description 2.
-    - title: M.Sc. in Precision Engineering Surveying
+    - title: M.Sc. in Precision Engineering Geodesy
       #Precision Metrology
       institution: "<a href='https://en.ustc.edu.cn/index.htm'>University of Science and Technology of China (USTC)</a>"
       year: 2018 – 2021
       #description:
       #  - Description 1.
       #  - Description 2.
-    - title: B.Sc. in Surveying and Mapping Engineering
+    - title: B.Sc. in Geomatics
       #Geomatics
       institution: "<a href='https://www.csust.edu.cn/ywb/Home.htm'>Changsha University of Science and Technology (CSUST)</a>"
       year: 2014 – 2018
