@@ -105,8 +105,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-geosummit-2025-in-budapest-hungary",
           title: 'I joined GeoSummit 2025 in Budapest, Hungary.',
           description: "",
-          section: "News",},{id: "news-i-am-a-visiting-phd-student-at-the-3dom-group-fbk-led-by-prof-fabio-remondino-for-a-three-month-research-stay",
-          title: 'I am a visiting PhD student at the 3DOM group, FBK, led by...',
+          section: "News",},{id: "news-i-started-a-three-month-research-visit-at-the-3dom-unit-of-fbk-led-by-prof-dr-fabio-remondino-working-on-multi-scene-multi-sensor-3d-change-detection-and-uav-based-reconstruction",
+          title: 'I started a three-month research visit at the 3DOM unit of FBK, led...',
           description: "",
           section: "News",},{
         id: 'social-email',
