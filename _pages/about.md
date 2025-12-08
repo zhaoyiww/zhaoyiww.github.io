@@ -27,8 +27,10 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Geosensors and Engineering Geodesy (GSEG)](https://gseg.igp.ethz.ch/people/people-group.html) group at the [Institute of Photogrammetry and Remote Sensing (IGP)](https://igp.ethz.ch/) of [ETH Zurich](https://ethz.ch/en.html). I am supervised by Prof. [Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html) and co-advised by Prof. [Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html). Currently, I am a visiting PhD student at the [3D Optical Metrology unit (3DOM)](https://3dom.fbk.eu/), [FBK](https://www.fbk.eu/en/), Trento, led by Prof. [Fabio Remondino](https://3dom.fbk.eu/people/profile/remondino).
+I recently defended my PhD in the [Geosensors and Engineering Geodesy (GSEG)](https://gseg.igp.ethz.ch/people/people-group.html) group at the [Institute of Photogrammetry and Remote Sensing (IGP)](https://igp.ethz.ch/) of [ETH Zurich](https://ethz.ch/en.html). 
+I was supervised by Prof. Dr. [Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html) and co-advised by Prof. Dr. [Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html). 
+I also completed a research visit at the [3D Optical Metrology (3DOM) unit](https://3dom.fbk.eu/) of [FBK](https://www.fbk.eu/en/) in Trento, working with Dr. [Pawel Trybala](https://3dom.fbk.eu/people/profile/trybala) and Prof. Dr. [Fabio Remondino](https://3dom.fbk.eu/people/profile/remondino).
 
-My research interests lie at the intersection of deep learning and remote sensing for monitoring applications, with a focus on image-assisted point cloud processing, including point cloud registration (rigid cases) and landslide displacement estimation (non-rigid cases).
+My research interests lie at the intersection of deep learning and remote sensing for monitoring applications, with a focus on image-assisted point cloud processing. This includes both rigid and non-rigid 3D tasks such as point cloud registration and landslide displacement estimation, emphasizing multimodal fusion of LiDAR/TLS and RGB images.
 
-<span style="color: red;">I expect to complete my PhD in December 2025 and am actively looking for a postdoc position.</span>
+<span style="color: red;">I have completed my PhD in December 2025 and am actively seeking postdoctoral opportunities.</span>

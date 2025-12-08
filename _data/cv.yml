@@ -13,9 +13,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. candidate in Geodesy and Photogrammetry
+    - title: Ph.D. in Geodesy and Photogrammetry
       institution: "<a href='https://ethz.ch/en.html'>ETH Zurich</a>"
-      year: 2021 – Present
+      year: 2021 – 2025
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -38,9 +38,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Visiting Student
+      institution: "<a href='https://3dom.fbk.eu/home'>3DOM</a>, <a href='https://www.fbk.eu/en/'>FBK</a>"
     - title: Research Assistant
       institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>"
-      year: 2021 – Present
+      year: 2021 – 2025
     - title: Computer Vision Algorithm Engineer Intern
       institution: Dilusense Company
       year: Mar. – Jun. 2021
@@ -54,18 +56,18 @@
 - title: Skills
   type: list
   contents:
-    - "<strong>Expertise</strong>: TLS scanning, UAV, Photogrammetric 3D reconstruction"
-    - "<strong>Programming Languages</strong>: Python, C++, MATLAB, Shell scripting"
-    - "<strong>Tools</strong>: CUDA, Git, LaTeX, Linux"
+    - "<strong>Expertise</strong>: LiDAR Point Cloud Processing, Photogrammetric 3D Reconstruction, Multimodal Data and Feature Fusion, 3D Deep Learning, Point Cloud Registration, Landslide Monitoring, and 3D Change Detection"
+    - "<strong>Programming Languages</strong>: Python, C++, Shell scripting, MATLAB"
+    - "<strong>Development Tools</strong>: CUDA, Git, LaTeX, Linux"
     - "<strong>Frameworks & Libraries</strong>: PyTorch, Open3D, OpenCV, COLMAP"
     - >
-      <strong>Software</strong>: Leica Cyclone, RiSCAN PRO, FARO SCENE, Pix4D Mapper,<br>
+      <strong>Professional Software</strong>: Leica Cyclone, RIEGL RiSCAN PRO, FARO SCENE, Pix4D Mapper,<br>
       Metashape, CloudCompare, Unity
 
 - title: Misc
   type: list
   contents:
-    - "<strong>Sports</strong>: Half-Marathon, Skiing, Hiking, Table Tennis"
+    - "<strong>Sports</strong>: Half-Marathon Running, Skiing, Hiking, Table Tennis"
 
 #- title: Open Source Projects
 #  type: time_table
