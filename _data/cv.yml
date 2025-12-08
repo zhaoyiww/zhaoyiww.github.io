@@ -38,13 +38,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+    - institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>"
+    - year: 2021 – 2025
     - title: Research Visiting Student
       institution: "<a href='https://3dom.fbk.eu/home'>3DOM</a>, <a href='https://www.fbk.eu/en/'>FBK</a>"
-    - title: Research Assistant
-      institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>"
-      year: 2021 – 2025
+      year: Sep. – Nov. 2025
     - title: Computer Vision Algorithm Engineer Intern
-      institution: Dilusense Company
+      institution: "<a href='https://www.dilusense.com/'>Dilusense Co., Ltd.</a>"
       year: Mar. – Jun. 2021
     - title: International Geoinformatics Summer School (IGSS) Student
       institution: "<a href='http://www.lmars.whu.edu.cn/en'>LIESMARS</a>, <a href='https://en.whu.edu.cn/'>Wuhan University (WHU)</a>"
