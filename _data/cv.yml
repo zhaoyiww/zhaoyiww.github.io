@@ -39,8 +39,8 @@
   type: time_table
   contents:
     - title: Research Assistant
-    - institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>"
-    - year: 2021 – 2025
+      institution: "<a href='https://gseg.igp.ethz.ch/people/people-group.html'>GSEG</a>, <a href='https://ethz.ch/en.html'>ETH Zurich</a>"
+      year: 2021 – 2025
     - title: Research Visiting Student
       institution: "<a href='https://3dom.fbk.eu/home'>3DOM</a>, <a href='https://www.fbk.eu/en/'>FBK</a>"
       year: Sep. – Nov. 2025
