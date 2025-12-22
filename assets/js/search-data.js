@@ -108,12 +108,15 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-a-three-month-research-visit-at-the-3dom-unit-of-fbk-led-by-prof-dr-fabio-remondino-working-on-multi-scene-multi-sensor-3d-change-detection-and-uav-based-reconstruction",
           title: 'I started a three-month research visit at the 3DOM unit of FBK, led...',
           description: "",
+          section: "News",},{id: "news-i-successfully-completed-my-doctoral-examination-i-sincerely-thank-the-examination-committee-prof-dr-andreas-wieser-prof-dr-rongjun-qin-prof-dr-konrad-schindler-and-dr-jemil-avers-butt",
+          title: 'I successfully completed my doctoral examination. I sincerely thank the examination committee: Prof....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%7A%68%61%6F%79%69.%77%61%6E%67@%67%65%6F%64.%62%61%75%67.%65%74%68%7A.%63%68", "_blank");
+          window.open("mailto:%7A%68%61%6F%79%69%77%77%61%6E%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
