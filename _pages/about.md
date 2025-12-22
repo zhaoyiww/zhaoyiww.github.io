@@ -33,4 +33,4 @@ I also completed a research visit at the [3D Optical Metrology (3DOM) unit](http
 
 My research interests lie at the intersection of deep learning and remote sensing for monitoring applications, with a focus on image-assisted point cloud processing. This includes both rigid and non-rigid 3D tasks such as point cloud registration and landslide displacement estimation, emphasizing multimodal fusion of LiDAR/TLS and RGB images.
 
-<span style="color: red;">I have completed my PhD in December 2025 and am actively seeking postdoctoral opportunities.</span>
+<span style="color: red;">I have recently completed my PhD and am actively seeking postdoctoral opportunities.</span>
