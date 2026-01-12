@@ -18,6 +18,7 @@ nav_order: 6
 - [*ISPRS Journal of Photogrammetry and Remote Sensing*](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
 - [*International Journal of Applied Observation and Geoinformation*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
 - [*Computational Urban Science*](https://link.springer.com/journal/43762)
+- [*Measurement*](https://www.sciencedirect.com/journal/measurement)
 
 <!--
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.

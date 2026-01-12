@@ -31,6 +31,7 @@ I recently defended my PhD in the [Geosensors and Engineering Geodesy (GSEG)](ht
 I was supervised by Prof. Dr. [Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html) and co-advised by Prof. Dr. [Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html). 
 I also completed a research visit at the [3D Optical Metrology (3DOM) unit](https://3dom.fbk.eu/) of [FBK](https://www.fbk.eu/en/) in Trento, working with Dr. [Pawel Trybala](https://3dom.fbk.eu/people/profile/trybala) and Prof. Dr. [Fabio Remondino](https://3dom.fbk.eu/people/profile/remondino).
 
-My research interests lie at the intersection of deep learning and remote sensing for monitoring applications, with a focus on image-assisted point cloud processing. This includes both rigid and non-rigid 3D tasks such as point cloud registration and landslide displacement estimation, emphasizing multimodal fusion of LiDAR/TLS and RGB images.
+My research interests lie in AI-enabled remote sensing and 3D spatial analysis for environmental and natural systems monitoring. I focus on developing deep learning–based methods for multimodal fusion of LiDAR/TLS point clouds and RGB images, with applications in terrain dynamics and environment-related multi-temporal 3D change analysis.
+My work emphasizes transferable methodologies for large-scale environmental monitoring, integrating multi-sensor data and multi-epoch observations.
 
 <span style="color: red;">I have recently completed my PhD and am actively seeking postdoctoral opportunities.</span>
